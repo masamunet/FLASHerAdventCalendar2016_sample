@@ -21,10 +21,10 @@
           <Include href="contact_icon.xml" itemIcon="1" loadImmediate="false" itemID="58463ad5-00000070" lastModified="1480997589"/>
           <Include href="contact_txt.xml" itemIcon="1" loadImmediate="false" itemID="58463ae5-00000078" lastModified="1480997605"/>
           <Include href="main.xml" loadImmediate="false" itemID="58463d3d-00000018" lastModified="1481029556"/>
+          <Include href="man0.xml" loadImmediate="false" itemID="5846d91f-0000001d" lastModified="1481038111"/>
+          <Include href="man0_ani.xml" loadImmediate="false" itemID="5846d925-0000001e" lastModified="1481038117"/>
+          <Include href="man1.xml" loadImmediate="false" itemID="5846d91b-0000001c" lastModified="1481038107"/>
           <Include href="top_icontxt.xml" itemIcon="1" loadImmediate="false" itemID="58463abc-00000068" lastModified="1480997564"/>
-          <Include href="シンボル 1.xml" loadImmediate="false" itemID="5846b6ae-00000337" lastModified="1481029294"/>
-          <Include href="宇宙飛行士１.xml" loadImmediate="false" itemID="5846418d-00000074" lastModified="1480999980"/>
-          <Include href="宇宙飛行士１のアニメーション.xml" loadImmediate="false" itemID="584641ad-0000007a" lastModified="1480999769"/>
      </symbols>
      <timelines>
           <DOMTimeline name="シーン 1" currentFrame="133">

@@ -89,18 +89,6 @@ function getMCSymbolPrototype(symbol, nominalBounds, frameBounds) {
 	}
 
 
-(lib.シンボル1 = function(mode,startPosition,loop) {
-	this.initialize(mode,startPosition,loop,{});
-
-	// レイヤー 1
-	this.instance = new lib.astronaut_about();
-	this.instance.parent = this;
-
-	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
-
-}).prototype = getMCSymbolPrototype(lib.シンボル1, new cjs.Rectangle(0,0,279,326), null);
-
-
 (lib.top_icontxt_1 = function(mode,startPosition,loop) {
 	this.initialize(mode,startPosition,loop,{});
 
@@ -112,6 +100,18 @@ function getMCSymbolPrototype(symbol, nominalBounds, frameBounds) {
 
 }).prototype = p = new cjs.MovieClip();
 p.nominalBounds = new cjs.Rectangle(0,0,284,330);
+
+
+(lib.man1 = function(mode,startPosition,loop) {
+	this.initialize(mode,startPosition,loop,{});
+
+	// レイヤー 1
+	this.instance = new lib.astronaut_about();
+	this.instance.parent = this;
+
+	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
+
+}).prototype = getMCSymbolPrototype(lib.man1, new cjs.Rectangle(0,0,279,326), null);
 
 
 (lib.contact_txt_1 = function(mode,startPosition,loop) {
@@ -206,7 +206,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,522,111);
 p.nominalBounds = new cjs.Rectangle(0,0,320,321);
 
 
-(lib.宇宙飛行士１ = function(mode,startPosition,loop) {
+(lib.man0 = function(mode,startPosition,loop) {
 	this.initialize(mode,startPosition,loop,{});
 
 	// レイヤー 1
@@ -216,14 +216,14 @@ p.nominalBounds = new cjs.Rectangle(0,0,320,321);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
 
-}).prototype = getMCSymbolPrototype(lib.宇宙飛行士１, new cjs.Rectangle(-125.3,-143.4,123,140), null);
+}).prototype = getMCSymbolPrototype(lib.man0, new cjs.Rectangle(-125.3,-143.4,123,140), null);
 
 
 (lib.astronaut_about_1 = function(mode,startPosition,loop) {
 	this.initialize(mode,startPosition,loop,{});
 
 	// レイヤー 1
-	this.instance = new lib.シンボル1();
+	this.instance = new lib.man1();
 	this.instance.parent = this;
 	this.instance.setTransform(-32.5,0,1,1,0,0,0,139.5,163);
 
@@ -233,11 +233,11 @@ p.nominalBounds = new cjs.Rectangle(0,0,320,321);
 p.nominalBounds = new cjs.Rectangle(-172,-163,279,326);
 
 
-(lib.宇宙飛行士１のアニメーション = function(mode,startPosition,loop) {
+(lib.man0_ani = function(mode,startPosition,loop) {
 	this.initialize(mode,startPosition,loop,{});
 
 	// レイヤー 1
-	this.instance = new lib.宇宙飛行士１();
+	this.instance = new lib.man0();
 	this.instance.parent = this;
 	this.instance.setTransform(-17.5,-3.4,1,1,0,0,0,61.5,70);
 
@@ -251,7 +251,7 @@ p.nominalBounds = new cjs.Rectangle(-204.4,-216.8,123,140);
 	this.initialize(mode,startPosition,loop,{});
 
 	// レイヤー 2
-	this.instance = new lib.宇宙飛行士１のアニメーション();
+	this.instance = new lib.man0_ani();
 	this.instance.parent = this;
 	this.instance.setTransform(574.7,639,1,1,0,0,0,124.5,125.4);
 
@@ -333,7 +333,7 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/sample_atlas_.png?1481031470237", id:"sample_atlas_"}
+		{src:"images/sample_atlas_.png?1481038129954", id:"sample_atlas_"}
 	],
 	preloads: []
 };

@@ -17,7 +17,7 @@
                     <Point x="0.05" y="-0.05"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="宇宙飛行士１のアニメーション" selected="true">
+                <DOMSymbolInstance libraryItemName="man0_ani" selected="true">
                   <matrix>
                     <Matrix tx="450.15" ty="513.6"/>
                   </matrix>

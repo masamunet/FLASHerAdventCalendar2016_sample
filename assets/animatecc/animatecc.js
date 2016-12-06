@@ -5,7 +5,7 @@ function init() {
 	dom_overlay_container = document.getElementById("dom_overlay_container");
 	images = images||{};
 	ss = ss||{};
-	var loader = new createjs.LoadQueue(false);
+	var loader = new createjs.LoadQueue(true);
 	loader.addEventListener("fileload", handleFileLoad);
 	loader.addEventListener("complete", handleComplete);
 	loader.loadManifest(lib.properties.manifest);
@@ -18,7 +18,11 @@ function handleComplete(evt) {
 	var queue = evt.target;
 	var ssMetadata = lib.ssMetadata;
 	for(i=0; i<ssMetadata.length; i++) {
-		ss[ssMetadata[i].name] = new createjs.SpriteSheet( {"images": [queue.getResult(ssMetadata[i].name)], "frames": ssMetadata[i].frames} )
+		try{
+			ss[ssMetadata[i].name] = new createjs.SpriteSheet( {"images": [queue.getResult(ssMetadata[i].name)], "frames": ssMetadata[i].frames} )
+		}catch(e){
+			alert('ごめんなさい、読み込みに時間がかかっているようです……。大変お手数ですが、再読み込みしてください。');
+		}
 	}
 	var preloaderDiv = document.getElementById("_preload_div_");
 	preloaderDiv.style.display = 'none';

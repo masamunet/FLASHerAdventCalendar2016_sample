@@ -7,7 +7,7 @@ pug = require('gulp-pug'),
 sass = require('gulp-sass'),
 coffee = require('gulp-coffee'),
 slack = require('gulp-slack')({
-  url: 'https://hooks.slack.com/services/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'
+  url: 'https://hooks.slack.com/services/XXXXXXXXXX'
 });
 
 const config = {

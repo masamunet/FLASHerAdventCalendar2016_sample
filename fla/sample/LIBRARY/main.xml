@@ -1,4 +1,7 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="main" itemID="58463d3d-00000018" lastModified="1480999432" lastUniqueIdentifier="1">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="main" itemID="58463d3d-00000018" lastModified="1481015187" lastUniqueIdentifier="1">
+  <persistentData>
+    <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+  </persistentData>
   <timeline>
     <DOMTimeline name="main">
       <layers>
@@ -14,9 +17,9 @@
                     <Point x="0.05" y="-0.05"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="宇宙飛行士１のアニメーション">
+                <DOMSymbolInstance libraryItemName="宇宙飛行士１のアニメーション" selected="true">
                   <matrix>
-                    <Matrix tx="486.65" ty="634.1"/>
+                    <Matrix tx="483.8" ty="689.45"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="124.55" y="125.4"/>

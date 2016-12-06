@@ -77,9 +77,9 @@
     <Property name="pngMaxSheetWidth">8192</Property>
     <Property name="preloaderName">デフォルト</Property>
     <Property name="quality">80</Property>
-    <Property name="responsiveOption">両方</Property>
+    <Property name="responsiveOption">2</Property>
     <Property name="scaleOption">表示に合わせる</Property>
-    <Property name="scaleStage">false</Property>
+    <Property name="scaleStage">true</Property>
     <Property name="soundsPath">sounds/</Property>
     <Property name="templateTitle">Default Template</Property>
     <Property name="version">0.1</Property>

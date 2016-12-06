@@ -1,4 +1,4 @@
-<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1024" height="768" currentTimeline="1" xflVersion="2.8" creatorInfo="Adobe Animate CC" platform="Macintosh" versionInfo="Saved by Animate Macintosh 16.0 build 112" majorVersion="16" buildNumber="112" viewAngle3D="88.2079048186946" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C">
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1024" height="768" frameRate="60" currentTimeline="1" xflVersion="2.8" creatorInfo="Adobe Animate CC" platform="Macintosh" versionInfo="Saved by Animate Macintosh 16.0 build 112" majorVersion="16" buildNumber="112" viewAngle3D="88.2079048186946" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C">
      <media>
           <DOMBitmapItem name="about_icon.png" itemID="58463919-00000008" sourceLastImported="1480997085" sourcePlatform="macintosh" externalFileCRC32="1603082358" externalFileSize="36115" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="about_icon.png" bitmapDataHRef="M 1 1480997145.dat" frameRight="6400" frameBottom="6420"/>
           <DOMBitmapItem name="about_txt.png" itemID="5846391a-0000000d" sourceLastImported="1480997085" sourcePlatform="macintosh" externalFileCRC32="1983218987" externalFileSize="6763" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="about_txt.png" bitmapDataHRef="M 2 1480997146.dat" frameRight="10440" frameBottom="2220"/>
@@ -14,41 +14,42 @@
      <symbols>
           <Include href="about_icon.xml" itemIcon="1" loadImmediate="false" itemID="58463a39-00000046" lastModified="1480997433"/>
           <Include href="about_txt.xml" itemIcon="1" loadImmediate="false" itemID="58463a52-0000004e" lastModified="1480997458"/>
-          <Include href="astronaut_about.xml" itemIcon="1" loadImmediate="false" itemID="58463a73-0000005b" lastModified="1480997497"/>
+          <Include href="astronaut_about.xml" itemIcon="1" loadImmediate="false" itemID="58463a73-0000005b" lastModified="1481031259"/>
           <Include href="astronaut_contact.xml" itemIcon="1" loadImmediate="false" itemID="58463b32-00000080" lastModified="1480997682"/>
           <Include href="astronaut_top.xml" itemIcon="1" loadImmediate="false" itemID="58463a94-00000060" lastModified="1480997534"/>
           <Include href="bg_mc.xml" itemIcon="1" loadImmediate="false" itemID="58463991-00000036" lastModified="1480997265"/>
           <Include href="contact_icon.xml" itemIcon="1" loadImmediate="false" itemID="58463ad5-00000070" lastModified="1480997589"/>
           <Include href="contact_txt.xml" itemIcon="1" loadImmediate="false" itemID="58463ae5-00000078" lastModified="1480997605"/>
-          <Include href="main.xml" loadImmediate="false" itemID="58463d3d-00000018" lastModified="1481015187"/>
+          <Include href="main.xml" loadImmediate="false" itemID="58463d3d-00000018" lastModified="1481029556"/>
           <Include href="top_icontxt.xml" itemIcon="1" loadImmediate="false" itemID="58463abc-00000068" lastModified="1480997564"/>
+          <Include href="シンボル 1.xml" loadImmediate="false" itemID="5846b6ae-00000337" lastModified="1481029294"/>
           <Include href="宇宙飛行士１.xml" loadImmediate="false" itemID="5846418d-00000074" lastModified="1480999980"/>
           <Include href="宇宙飛行士１のアニメーション.xml" loadImmediate="false" itemID="584641ad-0000007a" lastModified="1480999769"/>
      </symbols>
      <timelines>
-          <DOMTimeline name="シーン 1" currentFrame="29">
+          <DOMTimeline name="シーン 1" currentFrame="133">
                <layers>
                     <DOMLayer name="レイヤー 4" color="#FF4FFF">
                          <frames>
                               <DOMFrame index="0" name="TOP" labelType="name" keyMode="9728">
                                    <elements/>
                               </DOMFrame>
-                              <DOMFrame index="1" duration="8" name="TO_ABOUT" labelType="name" keyMode="9728">
+                              <DOMFrame index="1" duration="49" name="TO_ABOUT" labelType="name" keyMode="9728">
                                    <elements/>
                               </DOMFrame>
-                              <DOMFrame index="9" name="ABOUT" labelType="name" keyMode="9728">
+                              <DOMFrame index="50" name="ABOUT" labelType="name" keyMode="9728">
                                    <elements/>
                               </DOMFrame>
-                              <DOMFrame index="10" duration="9" name="TO_CONTACT" labelType="name" keyMode="9728">
+                              <DOMFrame index="51" duration="49" name="TO_CONTACT" labelType="name" keyMode="9728">
                                    <elements/>
                               </DOMFrame>
-                              <DOMFrame index="19" name="CONTACT" labelType="name" keyMode="9728">
+                              <DOMFrame index="100" name="CONTACT" labelType="name" keyMode="9728">
                                    <elements/>
                               </DOMFrame>
-                              <DOMFrame index="20" duration="9" name="TO_TOP" labelType="name" keyMode="9728">
+                              <DOMFrame index="101" duration="48" name="TO_TOP" labelType="name" keyMode="9728">
                                    <elements/>
                               </DOMFrame>
-                              <DOMFrame index="29" name="LAST" labelType="name" keyMode="9728">
+                              <DOMFrame index="149" name="LAST" labelType="name" keyMode="9728">
                                    <elements/>
                               </DOMFrame>
                          </frames>
@@ -61,22 +62,22 @@
                                    </Framescript>
                                    <elements/>
                               </DOMFrame>
-                              <DOMFrame index="1" duration="8" keyMode="9728">
+                              <DOMFrame index="1" duration="49" keyMode="9728">
                                    <elements/>
                               </DOMFrame>
-                              <DOMFrame index="9" duration="10" keyMode="9728">
+                              <DOMFrame index="50" duration="50" keyMode="9728">
                                    <Framescript language="JavaScript">
                                         <script><![CDATA[this.stop();]]></script>
                                    </Framescript>
                                    <elements/>
                               </DOMFrame>
-                              <DOMFrame index="19" duration="10" keyMode="9728">
+                              <DOMFrame index="100" duration="49" keyMode="9728">
                                    <Framescript language="JavaScript">
                                         <script><![CDATA[this.stop();]]></script>
                                    </Framescript>
                                    <elements/>
                               </DOMFrame>
-                              <DOMFrame index="29" keyMode="9728">
+                              <DOMFrame index="149" keyMode="9728">
                                    <Framescript language="JavaScript">
                                         <script><![CDATA[this.gotoAndStop('TOP');]]></script>
                                    </Framescript>
@@ -86,7 +87,25 @@
                     </DOMLayer>
                     <DOMLayer name="レイヤー 1" color="#4F80FF" locked="true" layerType="guide">
                          <frames>
-                              <DOMFrame index="0" duration="30" keyMode="9728">
+                              <DOMFrame index="0" duration="149" keyMode="9728">
+                                   <elements>
+                                        <DOMShape>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal" weight="16.35">
+                                                            <fill>
+                                                                 <SolidColor color="#FF0000"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge strokeStyle="1" edges="!0 0|20480 0!20480 0|20480 15360!20480 15360|0 15360!0 15360|0 0"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="149" keyMode="9728">
                                    <elements>
                                         <DOMShape>
                                              <strokes>
@@ -106,17 +125,52 @@
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="レイヤー 3" color="#FF800A" current="true" isSelected="true" autoNamed="false" animationType="motion object">
+                    <DOMLayer name="レイヤー 3" color="#FF800A" current="true" isSelected="true" autoNamed="false">
                          <frames>
-                              <DOMFrame index="0" duration="30" tweenType="motion object" motionTweenRotate="none" motionTweenScale="false" isMotionObject="true" visibleAnimationKeyframes="2097151" keyMode="8195">
-                                   <motionObjectXML><AnimationCore TimeScale="24000" Version="1" duration="30000"><TimeMap strength="0" type="Quadratic"/><TimeMap strength="0" type="Custom"><CustomTimeMapPoint anchor="0,0" next="0.0507,0.0507" previous="0,0"/><CustomTimeMapPoint anchor="0.1583,0.2236" next="0.2095,0.2748" previous="0.1075,0.1728"/><CustomTimeMapPoint anchor="0.3059,0.3059" next="0.3827,0.3827" previous="0.2547,0.2547"/><CustomTimeMapPoint anchor="0.5342,0.6" next="0.597,0.6628" previous="0.4573,0.5232"/><CustomTimeMapPoint anchor="0.7249,0.7249" next="0.769,0.769" previous="0.6621,0.6621"/><CustomTimeMapPoint anchor="0.8417,0.9193" next="0.8894,0.9669" previous="0.7977,0.8752"/><CustomTimeMapPoint anchor="1,1" next="1,1" previous="0.9524,0.9524"/></TimeMap><metadata><names><name langID="ja_JP" value=""/></names><Settings orientToPath="0" xformPtXOffsetPct="0.49465" xformPtYOffsetPct="0.49195" xformPtZOffsetPixels="0"/></metadata><PropertyContainer id="headContainer"><PropertyContainer id="Basic_Motion"><Property enabled="1" id="Motion_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,873" next="0,873" previous="0,873" roving="0" timevalue="9000"/><Keyframe anchor="0,427.159" next="0,427.159" previous="0,427.159" roving="0" timevalue="19000"/><Keyframe anchor="0,0.7" next="0,0.7" previous="0,0.7" roving="0" timevalue="29000"/></Property><Property TimeMapIndex="0" enabled="1" id="Motion_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,-668.337" next="0,-668.337" previous="0,-668.337" roving="0" timevalue="9000"/><Keyframe anchor="0,-1256.4" next="0,-1256.4" previous="0,-1256.4" roving="0" timevalue="19000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="29000"/></Property><Property TimeMapIndex="0" enabled="1" id="Rotation_Z" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,80.483" next="0,80.483" previous="0,80.483" roving="0" timevalue="0"/><Keyframe anchor="0,-118.519" next="0,-118.519" previous="0,-118.519" roving="0" timevalue="9000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="19000"/><Keyframe anchor="0,80.483" next="0,80.483" previous="0,80.483" roving="0" timevalue="29000"/></Property></PropertyContainer><PropertyContainer id="Transformation"><Property TimeMapIndex="0" enabled="1" id="Skew_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="9000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="19000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="29000"/></Property><Property TimeMapIndex="0" enabled="1" id="Skew_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="9000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="19000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="29000"/></Property><Property TimeMapIndex="0" enabled="1" id="Scale_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,157.446" next="0,157.446" previous="0,157.446" roving="0" timevalue="0"/><Keyframe anchor="0,107.986" next="0,107.986" previous="0,107.986" roving="0" timevalue="9000"/><Keyframe anchor="0,75.6149" next="0,75.6149" previous="0,75.6149" roving="0" timevalue="19000"/><Keyframe anchor="0,157.446" next="0,157.446" previous="0,157.446" roving="0" timevalue="29000"/></Property><Property TimeMapIndex="0" enabled="1" id="Scale_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,157.446" next="0,157.446" previous="0,157.446" roving="0" timevalue="0"/><Keyframe anchor="0,107.986" next="0,107.986" previous="0,107.986" roving="0" timevalue="9000"/><Keyframe anchor="0,75.6149" next="0,75.6149" previous="0,75.6149" roving="0" timevalue="19000"/><Keyframe anchor="0,157.446" next="0,157.446" previous="0,157.446" roving="0" timevalue="29000"/></Property></PropertyContainer><PropertyContainer id="Colors"/><PropertyContainer id="Filters"/></PropertyContainer></AnimationCore></motionObjectXML>
+                              <DOMFrame index="0" duration="50" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="main" selected="true">
+                                        <DOMSymbolInstance libraryItemName="main">
                                              <matrix>
-                                                  <Matrix a="0.259979248046875" b="1.55195617675781" c="-1.55195617675781" d="0.259979248046875" tx="1424.8" ty="-523"/>
+                                                  <Matrix a="0.259979248046875" b="1.55195617675781" c="-1.55195617675781" d="0.259979248046875" tx="1163.85" ty="-445.75"/>
                                              </matrix>
                                              <transformationPoint>
-                                                  <Point x="989.35" y="983.9"/>
+                                                  <Point x="989.3" y="983.85"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="50" duration="50" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="main" selected="true" centerPoint3DX="744.5" centerPoint3DY="536.4">
+                                             <matrix>
+                                                  <Matrix a="-0.457733154296875" b="-0.817230224609375" c="0.817230224609375" d="-0.457733154296875" tx="380.8" ty="1818.95"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="989.1" y="983.7"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="100" duration="49" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="main" centerPoint3DX="301.5" centerPoint3DY="-188.55">
+                                             <matrix>
+                                                  <Matrix a="1.13595581054688" b="0.0104827880859375" c="-0.0104827880859375" d="1.13595581054688" tx="-829.95" ty="-1342"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="989.2" y="983.8"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="149" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="main">
+                                             <matrix>
+                                                  <Matrix a="0.259979248046875" b="1.55195617675781" c="-1.55195617675781" d="0.259979248046875" tx="1163.85" ty="-445.75"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="989.3" y="983.85"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
                                    </elements>

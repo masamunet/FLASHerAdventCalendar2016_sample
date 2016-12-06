@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="main" itemID="58463d3d-00000018" lastModified="1481015187" lastUniqueIdentifier="1">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="main" itemID="58463d3d-00000018" lastModified="1481029556" lastUniqueIdentifier="1">
   <persistentData>
     <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
   </persistentData>
@@ -9,9 +9,9 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="astronaut_about" symbolType="graphic" loop="loop">
+                <DOMSymbolInstance libraryItemName="astronaut_about">
                   <matrix>
-                    <Matrix a="-0.34710693359375" b="0.93780517578125" c="-0.93780517578125" d="-0.34710693359375" tx="1280.6" ty="526.65"/>
+                    <Matrix a="-0.34710693359375" b="0.93780517578125" c="-0.93780517578125" d="-0.34710693359375" tx="1217.4" ty="704.5"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="0.05" y="-0.05"/>
@@ -19,7 +19,7 @@
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="宇宙飛行士１のアニメーション" selected="true">
                   <matrix>
-                    <Matrix tx="483.8" ty="689.45"/>
+                    <Matrix tx="450.15" ty="513.6"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="124.55" y="125.4"/>
@@ -48,7 +48,7 @@
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="about_icon" symbolType="graphic" loop="loop">
                   <matrix>
-                    <Matrix a="-0.5" b="0.866012573242188" c="-0.866012573242188" d="-0.5" tx="1846.75" ty="421.15"/>
+                    <Matrix a="-0.5" b="0.866012573242188" c="-0.866012573242188" d="-0.5" tx="1783.55" ty="599"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="159.95" y="160.45"/>
@@ -56,7 +56,7 @@
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="about_txt" symbolType="graphic" loop="loop">
                   <matrix>
-                    <Matrix a="-0.5" b="0.866012573242188" c="-0.866012573242188" d="-0.5" tx="1580.9" ty="677.55"/>
+                    <Matrix a="-0.5" b="0.866012573242188" c="-0.866012573242188" d="-0.5" tx="1517.7" ty="855.4"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="261.05" y="55.4"/>
@@ -64,7 +64,7 @@
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="top_icontxt" symbolType="graphic" loop="loop">
                   <matrix>
-                    <Matrix a="0.156463623046875" b="-0.9876708984375" c="0.9876708984375" d="0.156463623046875" tx="328.8" ty="808.4"/>
+                    <Matrix a="0.156463623046875" b="-0.9876708984375" c="0.9876708984375" d="0.156463623046875" tx="295.15" ty="632.55"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="141.95" y="165"/>

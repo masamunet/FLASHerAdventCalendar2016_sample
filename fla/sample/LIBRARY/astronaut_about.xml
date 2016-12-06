@@ -1,16 +1,23 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="astronaut_about" itemID="58463a73-0000005b" symbolType="graphic" lastModified="1480997497">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="astronaut_about" itemID="58463a73-0000005b" symbolType="graphic" lastModified="1481031259">
+  <persistentData>
+    <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+  </persistentData>
   <timeline>
-    <DOMTimeline name="astronaut_about">
+    <DOMTimeline name="astronaut_about" currentFrame="102">
       <layers>
-        <DOMLayer name="レイヤー 1" color="#4F80FF" current="true" isSelected="true">
+        <DOMLayer name="レイヤー 1" color="#4F80FF" current="true" isSelected="true" autoNamed="false" animationType="motion object">
           <frames>
-            <DOMFrame index="0" keyMode="9728">
+            <DOMFrame index="0" duration="182" tweenType="motion object" motionTweenRotate="none" motionTweenScale="false" isMotionObject="true" visibleAnimationKeyframes="2097151" keyMode="8195">
+              <motionObjectXML><AnimationCore TimeScale="60000" Version="1" duration="182000"><TimeMap strength="0" type="Quadratic"/><TimeMap strength="50" type="DualQuintic"/><metadata><names><name langID="ja_JP" value=""/></names><Settings orientToPath="0" xformPtXOffsetPct="0.5" xformPtYOffsetPct="0.5" xformPtZOffsetPixels="0"/></metadata><PropertyContainer id="headContainer"><PropertyContainer id="Basic_Motion"><Property TimeMapIndex="1" enabled="1" id="Motion_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,33.2" next="0,33.2" previous="0,33.2" roving="0" timevalue="89000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="181000"/></Property><Property enabled="1" id="Motion_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,-83.75" next="0,-83.75" previous="0,-83.75" roving="0" timevalue="89000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="181000"/></Property><Property enabled="1" id="Rotation_Z" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="89000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="181000"/></Property></PropertyContainer><PropertyContainer id="Transformation"><Property enabled="1" id="Skew_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="89000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="181000"/></Property><Property enabled="1" id="Skew_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="89000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="181000"/></Property><Property enabled="1" id="Scale_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="0"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="89000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="181000"/></Property><Property enabled="1" id="Scale_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="0"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="89000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="181000"/></Property></PropertyContainer><PropertyContainer id="Colors"/><PropertyContainer id="Filters"/></PropertyContainer></AnimationCore></motionObjectXML>
               <elements>
-                <DOMBitmapInstance libraryItemName="astronaut_about.png">
+                <DOMSymbolInstance libraryItemName="シンボル 1">
                   <matrix>
                     <Matrix tx="-172" ty="-163"/>
                   </matrix>
-                </DOMBitmapInstance>
+                  <transformationPoint>
+                    <Point x="139.5" y="163"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
               </elements>
             </DOMFrame>
           </frames>

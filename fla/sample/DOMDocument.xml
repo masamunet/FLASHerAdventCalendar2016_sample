@@ -1,0 +1,134 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1024" height="768" currentTimeline="1" xflVersion="2.8" creatorInfo="Adobe Animate CC" platform="Macintosh" versionInfo="Saved by Animate Macintosh 16.0 build 112" majorVersion="16" buildNumber="112" viewAngle3D="88.2079048186946" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C">
+     <media>
+          <DOMBitmapItem name="about_icon.png" itemID="58463919-00000008" sourceLastImported="1480997085" sourcePlatform="macintosh" externalFileCRC32="1603082358" externalFileSize="36115" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="about_icon.png" bitmapDataHRef="M 1 1480997145.dat" frameRight="6400" frameBottom="6420"/>
+          <DOMBitmapItem name="about_txt.png" itemID="5846391a-0000000d" sourceLastImported="1480997085" sourcePlatform="macintosh" externalFileCRC32="1983218987" externalFileSize="6763" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="about_txt.png" bitmapDataHRef="M 2 1480997146.dat" frameRight="10440" frameBottom="2220"/>
+          <DOMBitmapItem name="astronaut_about.png" itemID="5846391a-00000012" sourceLastImported="1480997085" sourcePlatform="macintosh" externalFileCRC32="3728860951" externalFileSize="100077" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="astronaut_about.png" bitmapDataHRef="M 3 1480997146.dat" frameRight="5580" frameBottom="6520"/>
+          <DOMBitmapItem name="astronaut_contact.png" itemID="5846391a-00000017" sourceLastImported="1480997086" sourcePlatform="macintosh" externalFileCRC32="1436768552" externalFileSize="1087853" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="astronaut_contact.png" bitmapDataHRef="M 4 1480997146.dat" frameRight="32960" frameBottom="16020"/>
+          <DOMBitmapItem name="astronaut_top.png" itemID="5846391a-0000001c" sourceLastImported="1480997085" sourcePlatform="macintosh" externalFileCRC32="2126605010" externalFileSize="31701" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="astronaut_top.png" bitmapDataHRef="M 5 1480997146.dat" frameRight="2460" frameBottom="2800"/>
+          <DOMBitmapItem name="bg.jpg" itemID="5846391a-00000021" sourceLastImported="1480997086" sourcePlatform="macintosh" externalFileCRC32="219071822" externalFileSize="1342599" allowSmoothing="true" quality="50" href="bg.jpg" bitmapDataHRef="M 6 1480997146.dat" frameRight="40000" frameBottom="40000" isJPEG="true"/>
+          <DOMBitmapItem name="contact_icon.png" itemID="5846391a-00000026" sourceLastImported="1480997086" sourcePlatform="macintosh" externalFileCRC32="942190819" externalFileSize="41774" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="contact_icon.png" bitmapDataHRef="M 7 1480997146.dat" frameRight="7220" frameBottom="7220"/>
+          <DOMBitmapItem name="contact_txt.png" itemID="5846391b-0000002b" sourceLastImported="1480997086" sourcePlatform="macintosh" externalFileCRC32="3763968936" externalFileSize="6071" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="contact_txt.png" bitmapDataHRef="M 8 1480997147.dat" frameRight="8560" frameBottom="1520"/>
+          <DOMBitmapItem name="sozai.jpg" itemID="58463a09-00000041" sourceLastImported="1480997370" sourcePlatform="macintosh" externalFileCRC32="3588118646" externalFileSize="1572996" allowSmoothing="true" quality="50" href="sozai.jpg" bitmapDataHRef="M 10 1480997385.dat" frameRight="40000" frameBottom="40000" isJPEG="true"/>
+          <DOMBitmapItem name="top_icontxt.png" itemID="5846391b-00000030" sourceLastImported="1480997085" sourcePlatform="macintosh" externalFileCRC32="2989984234" externalFileSize="31461" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="top_icontxt.png" bitmapDataHRef="M 9 1480997147.dat" frameRight="5680" frameBottom="6600"/>
+     </media>
+     <symbols>
+          <Include href="about_icon.xml" itemIcon="1" loadImmediate="false" itemID="58463a39-00000046" lastModified="1480997433"/>
+          <Include href="about_txt.xml" itemIcon="1" loadImmediate="false" itemID="58463a52-0000004e" lastModified="1480997458"/>
+          <Include href="astronaut_about.xml" itemIcon="1" loadImmediate="false" itemID="58463a73-0000005b" lastModified="1480997497"/>
+          <Include href="astronaut_contact.xml" itemIcon="1" loadImmediate="false" itemID="58463b32-00000080" lastModified="1480997682"/>
+          <Include href="astronaut_top.xml" itemIcon="1" loadImmediate="false" itemID="58463a94-00000060" lastModified="1480997534"/>
+          <Include href="bg_mc.xml" itemIcon="1" loadImmediate="false" itemID="58463991-00000036" lastModified="1480997265"/>
+          <Include href="contact_icon.xml" itemIcon="1" loadImmediate="false" itemID="58463ad5-00000070" lastModified="1480997589"/>
+          <Include href="contact_txt.xml" itemIcon="1" loadImmediate="false" itemID="58463ae5-00000078" lastModified="1480997605"/>
+          <Include href="main.xml" loadImmediate="false" itemID="58463d3d-00000018" lastModified="1480999432"/>
+          <Include href="top_icontxt.xml" itemIcon="1" loadImmediate="false" itemID="58463abc-00000068" lastModified="1480997564"/>
+          <Include href="宇宙飛行士１.xml" loadImmediate="false" itemID="5846418d-00000074" lastModified="1480999980"/>
+          <Include href="宇宙飛行士１のアニメーション.xml" loadImmediate="false" itemID="584641ad-0000007a" lastModified="1480999769"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="シーン 1" currentFrame="19">
+               <layers>
+                    <DOMLayer name="レイヤー 4" color="#FF4FFF">
+                         <frames>
+                              <DOMFrame index="0" name="TOP" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="8" name="TO_ABOUT" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="9" name="ABOUT" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="10" duration="9" name="TO_CONTACT" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="19" name="CONTACT" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="20" duration="9" name="TO_TOP" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="29" name="LAST" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="レイヤー 2" color="#9933CC" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <Framescript language="JavaScript">
+                                        <script><![CDATA[this.stop();]]></script>
+                                   </Framescript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="8" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="9" duration="10" keyMode="9728">
+                                   <Framescript language="JavaScript">
+                                        <script><![CDATA[this.stop();]]></script>
+                                   </Framescript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="19" duration="10" keyMode="9728">
+                                   <Framescript language="JavaScript">
+                                        <script><![CDATA[this.stop();]]></script>
+                                   </Framescript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="29" keyMode="9728">
+                                   <Framescript language="JavaScript">
+                                        <script><![CDATA[this.gotoAndStop('TOP');]]></script>
+                                   </Framescript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="レイヤー 1" color="#4F80FF" locked="true" layerType="guide">
+                         <frames>
+                              <DOMFrame index="0" duration="30" keyMode="9728">
+                                   <elements>
+                                        <DOMShape>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal" weight="16.35">
+                                                            <fill>
+                                                                 <SolidColor color="#FF0000"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge strokeStyle="1" edges="!0 0|20480 0!20480 0|20480 15360!20480 15360|0 15360!0 15360|0 0"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="レイヤー 3" color="#FF800A" autoNamed="false" animationType="motion object">
+                         <frames>
+                              <DOMFrame index="0" duration="30" tweenType="motion object" motionTweenRotate="none" motionTweenScale="false" isMotionObject="true" visibleAnimationKeyframes="2097151" keyMode="8195">
+                                   <motionObjectXML><AnimationCore TimeScale="24000" Version="1" duration="30000"><TimeMap strength="0" type="Quadratic"/><metadata><names><name langID="ja_JP" value=""/></names><Settings orientToPath="0" xformPtXOffsetPct="0.496825" xformPtYOffsetPct="0.4948" xformPtZOffsetPixels="0"/></metadata><PropertyContainer id="headContainer"><PropertyContainer id="Basic_Motion"><Property enabled="1" id="Motion_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,872.626" next="0,872.626" previous="0,872.626" roving="0" timevalue="9000"/><Keyframe anchor="0,426.5" next="0,426.5" previous="0,426.5" roving="0" timevalue="19000"/><Keyframe anchor="0,-5.68434e-14" next="0,-5.68434e-14" previous="0,-5.68434e-14" roving="0" timevalue="29000"/></Property><Property enabled="1" id="Motion_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,-668.337" next="0,-668.337" previous="0,-668.337" roving="0" timevalue="9000"/><Keyframe anchor="0,-1256.4" next="0,-1256.4" previous="0,-1256.4" roving="0" timevalue="19000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="29000"/></Property><Property enabled="1" id="Rotation_Z" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,80.483" next="0,80.483" previous="0,80.483" roving="0" timevalue="0"/><Keyframe anchor="0,-118.519" next="0,-118.519" previous="0,-118.519" roving="0" timevalue="9000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="19000"/><Keyframe anchor="0,80.483" next="0,80.483" previous="0,80.483" roving="0" timevalue="29000"/></Property></PropertyContainer><PropertyContainer id="Transformation"><Property enabled="1" id="Skew_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="9000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="19000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="29000"/></Property><Property enabled="1" id="Skew_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="9000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="19000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="29000"/></Property><Property enabled="1" id="Scale_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,157.446" next="0,157.446" previous="0,157.446" roving="0" timevalue="0"/><Keyframe anchor="0,107.986" next="0,107.986" previous="0,107.986" roving="0" timevalue="9000"/><Keyframe anchor="0,75.6149" next="0,75.6149" previous="0,75.6149" roving="0" timevalue="19000"/><Keyframe anchor="0,157.446" next="0,157.446" previous="0,157.446" roving="0" timevalue="29000"/></Property><Property enabled="1" id="Scale_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,157.446" next="0,157.446" previous="0,157.446" roving="0" timevalue="0"/><Keyframe anchor="0,107.986" next="0,107.986" previous="0,107.986" roving="0" timevalue="9000"/><Keyframe anchor="0,75.6149" next="0,75.6149" previous="0,75.6149" roving="0" timevalue="19000"/><Keyframe anchor="0,157.446" next="0,157.446" previous="0,157.446" roving="0" timevalue="29000"/></Property></PropertyContainer><PropertyContainer id="Colors"/><PropertyContainer id="Filters"/></PropertyContainer></AnimationCore></motionObjectXML>
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="main">
+                                             <matrix>
+                                                  <Matrix a="0.259979248046875" b="1.55195617675781" c="-1.55195617675781" d="0.259979248046875" tx="1433.25" ty="-531.25"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="993.7" y="989.65"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <persistentData>
+          <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+     </persistentData>
+     <PrinterSettings platform="macintosh"/>
+     <publishHistory/>
+</DOMDocument>

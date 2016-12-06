@@ -32,17 +32,17 @@
     <Property name="copy">true</Property>
     <Property name="default">true</Property>
     <Property name="embed">false</Property>
-    <Property name="filename">Untitled-1.svg</Property>
+    <Property name="filename">sample.svg</Property>
     <Property name="imagesPath">images</Property>
     <Property name="includeHiddenLayers">true</Property>
     <Property name="version">0.1</Property>
   </PublishProperties>
   <PublishProperties id="C6B9CB0C-C6DC-4FBC-9805-93E9EB37A444" name="JavaScript/HTML" otf="true" enabled="true">
     <Property name="SiteUrl"> </Property>
-    <Property name="bitDepth">8</Property>
+    <Property name="bitDepth">32</Property>
     <Property name="bootstrapSupportEnabled">false</Property>
-    <Property name="centerOption">両方</Property>
-    <Property name="centerStage">false</Property>
+    <Property name="centerOption">2</Property>
+    <Property name="centerStage">true</Property>
     <Property name="compactPaths">true</Property>
     <Property name="componentsPath">components/</Property>
     <Property name="createjsNS">createjs</Property>
@@ -56,21 +56,21 @@
     <Property name="exportLibsToFolder">true</Property>
     <Property name="exportSounds">true</Property>
     <Property name="exportSoundsToFolder">true</Property>
-    <Property name="filename">Untitled-1</Property>
+    <Property name="filename">sample.js</Property>
     <Property name="frameBounds">false</Property>
     <Property name="hostedLibs">true</Property>
     <Property name="imageFormat">0</Property>
     <Property name="imagesNS">images</Property>
     <Property name="imagesPath">images/</Property>
     <Property name="includeHiddenLayers">true</Property>
-    <Property name="includePreloader">false</Property>
+    <Property name="includePreloader">true</Property>
     <Property name="jpegBackground">#FFFFFF</Property>
     <Property name="jpegMaxSheetHeight">8192</Property>
     <Property name="jpegMaxSheetWidth">8192</Property>
     <Property name="libNS">lib</Property>
     <Property name="libraryPath">libs/</Property>
     <Property name="loop">true</Property>
-    <Property name="makeResponsive">false</Property>
+    <Property name="makeResponsive">true</Property>
     <Property name="optimizeExport">true</Property>
     <Property name="pngBackground">#00000000</Property>
     <Property name="pngMaxSheetHeight">8192</Property>

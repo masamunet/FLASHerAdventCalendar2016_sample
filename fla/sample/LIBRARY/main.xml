@@ -1,8 +1,32 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="main" itemID="58463d3d-00000018" lastModified="1480998447">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="main" itemID="58463d3d-00000018" lastModified="1480999432" lastUniqueIdentifier="1">
   <timeline>
     <DOMTimeline name="main">
       <layers>
-        <DOMLayer name="レイヤー 1" color="#4F80FF" current="true" isSelected="true">
+        <DOMLayer name="レイヤー 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="astronaut_about" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.34710693359375" b="0.93780517578125" c="-0.93780517578125" d="-0.34710693359375" tx="1280.6" ty="526.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="宇宙飛行士１のアニメーション">
+                  <matrix>
+                    <Matrix tx="486.65" ty="634.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="124.55" y="125.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="レイヤー 1" color="#4F80FF">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -21,7 +45,7 @@
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="about_icon" symbolType="graphic" loop="loop">
                   <matrix>
-                    <Matrix a="-0.5" b="0.866012573242188" c="-0.866012573242188" d="-0.5" tx="1547.6" ty="249"/>
+                    <Matrix a="-0.5" b="0.866012573242188" c="-0.866012573242188" d="-0.5" tx="1846.75" ty="421.15"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="159.95" y="160.45"/>
@@ -29,26 +53,10 @@
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="about_txt" symbolType="graphic" loop="loop">
                   <matrix>
-                    <Matrix a="-0.5" b="0.866012573242188" c="-0.866012573242188" d="-0.5" tx="1281.75" ty="505.4"/>
+                    <Matrix a="-0.5" b="0.866012573242188" c="-0.866012573242188" d="-0.5" tx="1580.9" ty="677.55"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="261.05" y="55.4"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="astronaut_about" symbolType="graphic" loop="loop">
-                  <matrix>
-                    <Matrix a="-0.347122192382812" b="0.93780517578125" c="-0.93780517578125" d="-0.347122192382812" tx="981.45" ty="354.5"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="0.05" y="-0.05"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="astronaut_top" symbolType="graphic" loop="loop">
-                  <matrix>
-                    <Matrix tx="330" ty="479"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="top_icontxt" symbolType="graphic" loop="loop">
